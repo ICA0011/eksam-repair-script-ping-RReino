@@ -7,5 +7,3 @@ def check_server_status():
         return True
     else:
         return False
-
-print(check_server_status())
